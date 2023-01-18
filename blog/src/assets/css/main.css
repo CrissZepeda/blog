@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body {
+  font-family: 'Source Code Pro', monospace;
+  background: #642b73;
+  background: -webkit-Linear-gradient(to right, #c6426e, #642b73);
+  background: linear-gradient(to right, #c6426e, #642b73);
+}
+
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 5em;
+  align-items: center;
+  justify-content: center;
+}
